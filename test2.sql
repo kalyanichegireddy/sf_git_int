@@ -69,3 +69,4 @@ GRANT CREATE SEQUENCE ON DATABASE <dbname> TO ROLE <rolename>;
 GRANT USAGE ON SEQUENCE <sequencename>  TO ROLE <rolename>;
 GRANT ALTER ON SEQUENCE <sequencename>  TO ROLE <rolename>;
 GRANT OWNERSHIP ON SEQUENCE <sequencename>  TO ROLE <rolename>;
+--adding extra line for new commit
